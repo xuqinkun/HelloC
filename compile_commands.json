@@ -1,0 +1,7 @@
+[
+    {
+      "directory": "D:/Code/CProjects/HelloC",
+      "command": "clang -Iinclude -I\"D:\\Dev\\mingw64\\x86_64-w64-mingw32\\include\" hello.c",
+      "file": "hello.c"      
+    }
+]
